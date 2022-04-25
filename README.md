@@ -4,7 +4,9 @@
 
 ##  My GitHub activity stats
 
-![](https://github-readme-stats.vercel.app/api?username=samueldg&hide=stars&count_private=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=samueldg&hide=stars&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldg)
 
 <!---
 samueldg/samueldg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
