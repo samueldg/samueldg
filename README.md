@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samueldg
-- 🏢 Software team lead @ [Delphia](https://delphia.com)
+- 🏢 CTO @ [Delphia](https://delphia.com)
 - 🌐 [Twitter](https://twitter.com/samuel_dg) | [LinkedIn](https://www.linkedin.com/in/samueldiongirardeau/) | [Stack Overflow](https://stackoverflow.com/users/2773979/samuel-dion-girardeau)
 
 ##  My GitHub activity stats
