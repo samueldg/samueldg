@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samueldg
-- 🏢 CTO @ [Delphia](https://delphia.com)
+- 🏢 CTO @ [Tilt](https://tilt.io)
 - 🌐 [Twitter](https://twitter.com/samuel_dg) | [LinkedIn](https://www.linkedin.com/in/samueldiongirardeau/) | [Stack Overflow](https://stackoverflow.com/users/2773979/samuel-dion-girardeau)
 
 ##  My GitHub activity stats
