@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @samueldg
-- 🏢 CTO @ [Tilt](https://tilt.io)
-- 🌐 [Twitter](https://twitter.com/samuel_dg) | [LinkedIn](https://www.linkedin.com/in/samueldiongirardeau/) | [Stack Overflow](https://stackoverflow.com/users/2773979/samuel-dion-girardeau)
+- 🏢 CTO @ [Tilt](https://tilt.now)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/samueldiongirardeau/) | [Twitter](https://twitter.com/samuel_dg) | [Stack Overflow](https://stackoverflow.com/users/samueldg)
